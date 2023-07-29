@@ -1,3 +1,5 @@
+Small changes in the original script, for my subsequent project of object recognition by movement and sending notifications in a telegram.  
+
 # Finding objects on the image
 In this project, I'll show you how to find objects in an image, select them, and count them. This program can work with recaptcha
 

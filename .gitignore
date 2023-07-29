@@ -1,2 +1,15 @@
-Readme.md
-Result
+# Ignore all files
+*
+
+
+# Don't ignore git files
+!.gitignore
+
+# Don't ignore md
+!*.md
+
+# Don't ignore Resources
+!Resources/**
+
+# Don't ignore python script
+!yolo_script.py
