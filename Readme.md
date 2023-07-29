@@ -1,4 +1,8 @@
-Small changes in the original script, for my subsequent project of object recognition by movement and sending notifications in a telegram.  
+Small changes in the original script, for my subsequent project of object recognition by movement and sending 
+notifications in a telegram. [Link](https://github.com/piro-s/motion_cctvbot_release/) to that project.  
+New function has been added, in which the path to the desired image is thrown. The processed image is then saved and 
+returns the recognized objects and the path to the processed image.  
+
 
 # Finding objects on the image
 In this project, I'll show you how to find objects in an image, select them, and count them. This program can work with recaptcha
